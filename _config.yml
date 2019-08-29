@@ -2,7 +2,7 @@
 # Values for this workshop.
 #------------------------------------------------------------
 
-# Which carpentry is this ("swc", "dc", "lc", or "cp")?
+# Which carpentry is this ("swc")?
 # swc: Software Carpentry
 # dc: Data Carpentry
 # lc: Library Carpentry
@@ -10,7 +10,7 @@
 carpentry: "swc"
 
 # Overall title for pages.
-title: "Workshop Title"
+title: "Data visulixation in R"
 
 
 #------------------------------------------------------------
